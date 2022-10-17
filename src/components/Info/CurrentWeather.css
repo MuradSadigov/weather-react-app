@@ -1,0 +1,58 @@
+.current_weather
+{
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    gap: 2em;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather_units
+{
+    font-size: 5rem;
+}
+
+.weather_conditions
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.bi
+{
+    margin: 0 auto;
+}
+
+.weather_condition
+{
+    font-size: 1.5rem;
+    /* text-align: center; */
+}
+
+.location_date
+{
+    display: flex;
+    flex-direction: column;
+    width: 250%;
+    /* justify-content: space-around; */
+}
+
+.location_country
+{
+    font-size: 0.4em;
+}
+
+.location_city
+{
+    font-size: 3rem;
+    /* width:max-content; */
+    display: flex;
+    flex-direction: column;
+}
+
+.date
+{
+    font-size: 1.5rem;
+    font-weight: lighter;
+}

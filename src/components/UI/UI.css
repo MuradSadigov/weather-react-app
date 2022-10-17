@@ -1,0 +1,10 @@
+.UI
+{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.342);
+    flex-direction: column;
+    padding-left: 2em;
+    justify-content: space-between;
+    padding-bottom: 4em;
+    width: fit-content;
+}

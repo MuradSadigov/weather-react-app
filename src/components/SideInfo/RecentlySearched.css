@@ -1,0 +1,27 @@
+.recently_list
+{
+    margin-top: 1.5em;
+}
+
+.list_title
+{
+    margin-bottom: 0.8em;
+}
+
+
+.items
+{
+    display: flex;
+    flex-direction: column;
+    gap: 0.8em;
+    width: fit-content;
+    margin: 0 0 1em 1em;
+    font-size: 1.2em;
+}
+
+.item
+{
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: flex-start; */
+}

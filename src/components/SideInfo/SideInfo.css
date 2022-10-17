@@ -1,0 +1,25 @@
+.side_information
+{
+    padding-top: 3em;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    border-top: 3px white solid;
+    width: 80%;
+}
+
+.weather_conditions_side
+{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    gap: 0.8em;
+    margin: 0 0 1em 1em;
+}
+
+.weather_condition_side
+{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1em;
+}
